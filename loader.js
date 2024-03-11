@@ -1,0 +1,1 @@
+(()=>{"use strict";window.addEventListener("load",(()=>{const e=document.querySelector("#app-loading"),t=document.querySelector(".main");setTimeout((()=>{t.style.display="flex",e.style.display="none"}),300)}))})();
